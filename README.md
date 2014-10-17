@@ -2,6 +2,7 @@
 
 
 
+
 Configure [Grunt](http://gruntjs.com/) tasks to run with newer files only.
 
 **Synopsis:**  The [`newer`](#newer) task will configure another task to run with `src` files that are *a)* newer than the `dest` files or *b)* newer than the last successful run (if there are no `dest` files).  See below for examples and more detail.
